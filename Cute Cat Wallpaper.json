@@ -3,14 +3,14 @@
 		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "APPLOVIN-M",
-			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
-			"main_ads_rewards": "",
-			"main_ads_natives": "",
-			"backup_ads_banner": "db4d5e8718b97d78",
-			"backup_ads_intertitial": "518cd97722c60b52",
-			"backup_ads_rewards": "",
-			"backup_ads_natives": "",
+			"main_ads_banner": "ca-app-pub-7587542433361033/9436459200",
+			"main_ads_intertitial": "ca-app-pub-7587542433361033/2888180966",
+			"main_ads_rewards": "ca-app-pub-7587542433361033/8711353286",
+			"main_ads_natives": "ca-app-pub-7587542433361033/9490878642",
+			"backup_ads_banner": "a7f5986494f9f6bb",
+			"backup_ads_intertitial": "a50ea09cd51bb639",
+			"backup_ads_rewards": "1ccbf5715ca0fb11",
+			"backup_ads_natives": "6d2109cc4aa74760",
 			"open_ads_admob": "",
 			"open_ads_alien": "",
 			"open_ads_max": "1",
@@ -47,210 +47,210 @@
 			"name_category": "image",
 			"title": "1",
 			"image": "https://i.pinimg.com/564x/20/04/2e/20042e204eca0c5f00baca3825fc563a.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 2,
 			"name_category": "image",
 			"title": "2",
 			"image": "https://i.pinimg.com/564x/3d/b7/d7/3db7d7faea5eaa39f0e568336836d409.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 3,
 			"name_category": "image",
 			"title": "3",
 			"image": "https://i.pinimg.com/564x/a3/77/8b/a3778b69702e10edd600eac0ae25a126.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 4,
 			"name_category": "image",
 			"title": "4",
 			"image": "https://i.pinimg.com/564x/30/44/7c/30447cb0e80c1d9f1d9987a7137f8783.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 5,
 			"name_category": "image",
 			"title": "5",
 			"image": "https://i.pinimg.com/564x/c1/2d/89/c12d89c2e2c0d1c41b44abd089e9b747.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 6,
 			"name_category": "image",
 			"title": "6",
 			"image": "https://i.pinimg.com/564x/d1/04/af/d104af2a13797c7af036d997b8af2398.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 7,
 			"name_category": "image",
 			"title": "7",
 			"image": "https://i.pinimg.com/564x/54/e2/7b/54e27bd88384bb22128b6d16ada95035.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 8,
 			"name_category": "image",
 			"title": "8",
 			"image": "https://i.pinimg.com/564x/9f/5c/a7/9f5ca75c54fedac059b21b115a26e0b5.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 9,
 			"name_category": "image",
 			"title": "9",
 			"image": "https://i.pinimg.com/564x/4b/0c/65/4b0c6508a5bf5b8cd7e07fe11bf06299.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 10,
 			"name_category": "image",
 			"title": "10",
 			"image": "https://i.pinimg.com/564x/f5/b0/4d/f5b04dbe75d97c65ed5d96ff2177641e.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 11,
 			"name_category": "image",
 			"title": "11",
 			"image": "https://i.pinimg.com/564x/b8/06/a5/b806a589e2eaeebf119006c0a5ebeccb.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 12,
 			"name_category": "image",
 			"title": "12",
 			"image": "https://i.pinimg.com/736x/94/a9/75/94a97501570987f357243e8c30d606a8.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 13,
 			"name_category": "image",
 			"title": "13",
 			"image": "https://i.pinimg.com/564x/a0/76/54/a07654f11dafcd4e52d4a54c69973bd7.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 14,
 			"name_category": "image",
 			"title": "14",
 			"image": "https://i.pinimg.com/564x/47/32/f8/4732f81b0035e47ea63475ab744afd70.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 15,
 			"name_category": "image",
 			"title": "15",
 			"image": "https://i.pinimg.com/564x/85/94/47/8594477ea827c31615632d6ee47fd1c1.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 16,
 			"name_category": "image",
 			"title": "16",
 			"image": "https://i.pinimg.com/564x/a9/2e/90/a92e9014985cee070285b7974d36c4a4.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 17,
 			"name_category": "image",
 			"title": "17",
 			"image": "https://i.pinimg.com/564x/ab/14/bb/ab14bb82c47a931510791ec898a54c86.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 18,
 			"name_category": "image",
 			"title": "18",
 			"image": "https://i.pinimg.com/564x/0f/fb/47/0ffb477db508e401c74f3cfcea7df997.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 19,
 			"name_category": "image",
 			"title": "19",
 			"image": "https://i.pinimg.com/564x/e9/be/56/e9be561501026ab95ed98ddc0a1de371.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 20,
 			"name_category": "image",
 			"title": "20",
 			"image": "https://i.pinimg.com/564x/0d/b9/eb/0db9eb5f6be0931b0d479b21f1ba51e5.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 21,
 			"name_category": "image",
 			"title": "21",
 			"image": "https://i.pinimg.com/564x/2c/47/15/2c471543f4a7b174a520be05badd6ea4.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 22,
 			"name_category": "image",
 			"title": "22",
 			"image": "https://i.pinimg.com/564x/a7/9a/d1/a79ad1e4e3661af0dc6fd323542667b0.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 23,
 			"name_category": "image",
 			"title": "23",
 			"image": "https://i.pinimg.com/564x/ea/bc/de/eabcde2a7d71ccc855c0b441addcf1c1.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 24,
 			"name_category": "image",
 			"title": "24",
 			"image": "https://i.pinimg.com/564x/d7/a1/52/d7a1521ad7400a3b72adde905782ab4c.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 25,
 			"name_category": "image",
 			"title": "25",
 			"image": "https://i.pinimg.com/564x/c4/69/3b/c4693b9576f04809da50b4e98359bebc.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 26,
 			"name_category": "image",
 			"title": "26",
 			"image": "https://i.pinimg.com/564x/2e/5d/58/2e5d58d3541ce6787d2498efe79a8c70.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 27,
 			"name_category": "image",
 			"title": "27",
 			"image": "https://i.pinimg.com/564x/76/8d/e4/768de43a3d5518ebcfd6b09767a6c055.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 28,
 			"name_category": "image",
 			"title": "28",
 			"image": "https://i.pinimg.com/564x/b9/32/a7/b932a70f4c04784ff16556110d5f9dbd.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 29,
 			"name_category": "image",
 			"title": "29",
 			"image": "https://i.pinimg.com/564x/90/59/82/905982c4902284062e04b3724b12ff46.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 30,
 			"name_category": "image",
 			"title": "30",
 			"image": "https://i.pinimg.com/736x/ac/02/01/ac02015a3e5d8ba27c80d68ef256ad54.jpg",
-			"lock": false
+			"lock": true
 		},
 		{
 			"id": 31,
